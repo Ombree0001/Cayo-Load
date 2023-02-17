@@ -1,3 +1,5 @@
+#discord.gg/fivemfrance
+
 local requestedIpl = {
     "h4_mph4_terrain_01_grass_0",
     "h4_mph4_terrain_01_grass_1",
